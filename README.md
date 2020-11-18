@@ -8,4 +8,4 @@ The codes in OneSpike, TwoSpikes, ThreeSpikes will read the data from PDE simula
 
 
 
-Matrixs.m contains the matrix M_1 and M_2 defined in the paper. run it to verify the Eq.~125.
+Matrices.m contains the matrix M_1 and M_2 defined in the paper. run it to verify the Eq.~125.
